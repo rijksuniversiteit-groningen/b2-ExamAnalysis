@@ -5,7 +5,7 @@ This Blackboard creates analyzes of exams in Blackboard and presents them in a r
 In order to use this building block you require a license. Contact nestorsupport@rug.nl for more information.
 
 ## Links
-- [Download Latest Release ![Latest release](https://img.shields.io/github/release/rijksuniversiteit-groningen/b2-ExamAnalysis.svg)](https://github.com/rijksuniversiteit-groningen/b2-AssessmentTools/releases/latest)
+- [Download Latest Release ![Latest release](https://img.shields.io/github/release/rijksuniversiteit-groningen/b2-ExamAnalysis.svg)](https://github.com/rijksuniversiteit-groningen/b2-ExamAnalysis/releases/latest)
 - [View All Releases](https://github.com/rijksuniversiteit-groningen/b2-ExamAnalysis/releases)
 
 ## Release Notes
