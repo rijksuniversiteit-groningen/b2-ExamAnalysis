@@ -10,8 +10,11 @@ In order to use this building block you require a license. Contact nestorsupport
 
 ## Release Notes
 
+### 3400.190717.0
+* Fix rounding errors in grading
+
 ### 3400.190517.0
-Add support for EitherOr question type
+* Add support for EitherOr question type
 
 ### 3400.181218.1
 First version available on github
