@@ -10,6 +10,9 @@ In order to use this building block you require a license. Contact nestorsupport
 
 ## Release Notes
 
+### 3400.190829.0
+* Use different privilege for allowing to create an analysis
+
 ### 3400.190717.0
 * Fix rounding errors in grading
 
