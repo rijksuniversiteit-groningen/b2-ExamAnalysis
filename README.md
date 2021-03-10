@@ -10,6 +10,11 @@ In order to use this building block you require a license. Contact nestorsupport
 
 ## Release Notes
 
+### 3800.210226.0
+* IOS-436 Add feature to quickly add all questions with n number of alternatives
+* Use correct scores when choosing for publish scores and fix several bugs in course import
+* Support missing values
+
 ### 3800.200828.0
 * Prevent "User not logged in. PERNAMENT scope is unavailable"
 * Handle analysis with scores
